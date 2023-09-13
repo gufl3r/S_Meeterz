@@ -1,0 +1,18 @@
+c:\Users\marlo\OneDrive\Desktop\backup\dfy\1\main.ex:7
+<0067>:: end of line reached with no closing "
+display("A number between 1 and 1000 has been chosen. Guess it!"")
+                                                                  ^
+
+
+--- Defined Words ---
+EU4
+EU4_1
+EU4_1_0
+WINDOWS
+WIN32
+CONSOLE
+X86_64
+BITS64
+LONG32
+EUI
+-------------------
